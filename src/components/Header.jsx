@@ -17,7 +17,7 @@ const Header = () => {
             FAQ
           </a>
           <button className="btn btn-primary">
-            <img src={twitter} className="me-2" />
+            <img src={twitter} className="me-2" alt="twitter" />
             Sign in with Twitter
           </button>
         </div>
