@@ -1,3 +1,7 @@
 .Content-body .inline-avatars img {
   position: relative;
 }
+
+.Content-body .sec1-col1 > *:not(:first-child) {
+  margin-top: 20px;
+}

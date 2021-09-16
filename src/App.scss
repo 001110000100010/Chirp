@@ -1,5 +1,19 @@
 $theme-colors: (
-  'primary': pink,
+  'primary': #1da1f2,
+  'cream': #fbf8f3,
+  'darkteal': #1f7898,
 );
+
+.btn-primary {
+  color: #fff !important;
+}
+
+strong {
+  font-weight: bold !important;
+}
+
+.container-md {
+  margin: 0 8rem 0 8rem !important;
+}
 
 @import '../node_modules/bootstrap/scss/bootstrap';
